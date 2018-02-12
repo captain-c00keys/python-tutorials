@@ -6,4 +6,4 @@ print(randint(5, 10))
 
 print(factorial(4))
 
-print()
+print(random.random())
