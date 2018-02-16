@@ -1,3 +1,10 @@
 loopy = "party"
 ddloop = [1,2,3,4]
-shoD = {"tequilia": 3, "whiskey": 4, "beer": 5, "gin": 6}
+shoDee = {1: "tequilia", 4: "whiskey", 5: "beer", 6: "gin"}
+
+for char in range(0, len(loopy)):
+    print(loopy[char])
+
+for items in ddloop:
+    print(items, end = "")
+
