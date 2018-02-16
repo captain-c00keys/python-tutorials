@@ -14,4 +14,12 @@ def addingLists(list1, list2, list3):
         new_list.append(list1[items] + list2[items] + list3[items])
     return new_list
 
-def 
+def iterList(LOL):
+    for items in LOL:
+        for num in items:
+            print(num)
+
+iterList([[1,2], [0,1], [3,4]])
+loopList(intList)
+
+print(addingLists(first, second, third))
