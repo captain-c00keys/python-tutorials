@@ -8,3 +8,4 @@ for char in range(0, len(loopy)):
 for items in ddloop:
     print(items, end = "")
 
+for items in 
